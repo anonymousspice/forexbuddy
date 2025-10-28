@@ -1,7 +1,5 @@
-account_balance = 0
-percentage  = 0
-riskamount = 0 
-win_rate_ratio = 0
+account_balance , percentage , risk_amount , win_rate_ratio = 0
+
 
 
 def percentage_risk_calculation(account_balance , percentage):
